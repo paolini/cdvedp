@@ -1,0 +1,196 @@
+BODY {
+    margin: 		30pt;
+    margin-bottom:      15pt;
+    color: 		black;
+    background-color: 	C0E0D0;
+}
+
+PRE {
+    color:		#404040;
+    font-family:	"Arial Rounded MT Bold", arial, helvetica,  sans-serif;
+    font-style:		normal;
+    font-weight:        bold;
+    font-size:		10pt;
+    text-align:		center;
+    display:            inline;
+}
+
+P {
+    color: 		black;
+    font-family: 	arial, helvetica, sans-serif;
+    font-style:  	normal;
+    font-size:  	14pt;
+    text-align:		justify;
+}
+
+I {
+    color: 		black;
+    font-family: 	arial, helvetica, sans-serif;
+    font-style:  	normal;
+    font-weight:	normal;
+    font-size:  	10pt;
+    }
+
+B {
+    color: 		black;
+    font-family: 	arial, helvetica, sans-serif;
+    font-style:  	normal;
+    font-weight:	bold;
+    }
+
+EM {
+    color:		black;
+    font-family: 	arial, helvetica, sans-serif;
+    font-style: 	italic;
+    font-weight: 	bold;
+    font-size: 		11pt;
+    text-align: 	left;
+    display: 		inline;
+}
+
+A {
+    color:		blue;
+    font-family:	arial, helvetica, sans-serif;
+    font-style:		normal;
+    font-weight:	bold;
+    text-align:		left;
+    text-decoration:	none;
+    display:		inline;
+}
+
+
+H1 {
+    color:		#903020;
+    font-family:	"Arial Rounded MT Bold", arial, helvetica,  sans-serif;
+    font-style:		bold;
+    font-size:		24pt;
+    text-align:		center;
+}
+
+H2 {
+    color:		#903020;
+    font-family:	"Arial Rounded MT Bold", arial, helvetica, sans-serif;
+    font-style:		normal;
+    font-weight:	bold;
+    font-size:		18pt;
+    text-align:		right;
+}
+
+H3 {
+    color:		black;
+    font-family:	"Arial Rounded MT Bold', arial, helvetica,  sans-serif;
+    font-style:		italic;
+    font-size:		16pt;
+    text-align:		right;
+}
+
+LI {
+    color:      	black;
+    font-family:	arial, helvetica,  sans-serif;
+    font-style:		normal;
+    font-size:		14pt;
+    text-align:		justify;
+    list-style:		disc;
+}
+
+UL {
+    color:		black;
+    font-family:	arial, helvetica,  sans-serif;
+    font-style:		normal;
+    font-size:		14pt;
+    text-align:		justify;
+}
+
+OL {
+    color:		black;
+    font-family:	arial, helvetica,  sans-serif;
+    font-style:		normal;
+    font-size:		14pt;
+    text-align:		justify;
+}
+
+TABLE {
+    color:		black;
+    font-family:	arial, helvetica,  sans-serif;
+    font-style:		normal;
+    font-size:		8pt;
+    text-align:		justify;
+}
+
+TD {
+    color:		black;
+    font-family:	arial, helvetica,  sans-serif;
+    font-style:		normal;
+}
+
+INPUT {	color:		white;
+        background:     #903020;
+	font-weight:	bold;
+        font-style:     normal;
+      }
+
+.h2 {color:		#903020;
+     font-family:	"Arial Rounded MT Bold", arial, helvetica, sans-serif;
+     font-style:	normal;
+     font-weight:	bold;
+     font-size:		14pt;
+     text-align:	center;
+}
+
+.right {text-align:	right;
+     }
+
+.nomargin {margin-bottom:  0pt;
+           margin-top:     0pt;
+           margin-left:    0pt;
+           margin-right:   0pt;
+          }
+
+.bottom {margin-bottom:  0pt;
+         margin-top:    10pt;
+         font-size: 	10pt;
+        }
+
+.top    {margin-bottom: 10pt;
+         margin-top:    15pt;
+         margin-left:    0pt;
+         margin-right:   0pt;
+        }
+
+.index  {margin-left:   10pt;
+         margin-right:   0pt;
+         margin-bottom:  0pt;
+         margin-top:    10pt;
+       }
+
+.title  {font-size:	14pt;
+         color:		#903020;
+         font-family:	"Arial Rounded MT Bold", arial, helvetica,  sans-serif;
+         font-weight:	bold;
+         text-align:	center;
+       }
+
+.tit {
+    color:		#903020;
+    font-family:	"Arial Rounded MT Bold", arial, helvetica,  sans-serif;
+    font-weight:	bold;
+    font-size:		14pt;
+    text-align:		center;
+}
+
+.subtitle {
+    color:		#404040;
+    font-family:	"Arial Rounded MT Bold", arial, helvetica,  sans-serif;
+    font-style:		normal;
+    font-weight:        bold;
+    font-size:		10pt;
+    display:            inline;
+          }
+
+.gray   {color:         a0a0a0;}
+.corsi  {font-size:     16pt;}
+.dodici {font-size:     8pt;}
+
+.veropre {font-family: courier;
+          font-weight: normal;
+          color: black; }

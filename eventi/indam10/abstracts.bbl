@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{GM}
+M.~Giaquinta and L.~Martinazzi.
+\newblock {\em An introduction to the regularity theory for elliptic systems,
+  harmonic maps and minimal graphs}, volume~2 of {\em Lecture Notes. Scuola
+  Normale Superiore di Pisa (New Series)}.
+\newblock Edizioni della Normale, Pisa, 2005.
+
+\bibitem{HT}
+P.~Hartman and G.~Stampacchia.
+\newblock On some non-linear elliptic differential-functional equations.
+\newblock {\em Acta Math.}, 115:271--310, 1966.
+
+\bibitem{MTholder}
+C.~Mariconda and G.~Treu.
+\newblock H\"older regularity for a classical problem of the calculus of
+  variations.
+\newblock {\em Adv. Calc. Var.}, 2:311--320.
+
+\end{thebibliography}

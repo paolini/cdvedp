@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN'
+'http://www.w3.org/TR/REC-html40/loose.dtd'>
+<html>
+<!-- this is head.in -->
+<head>
+<META name="Description" content="Research group on Pde and Calculus
+of Variations at the University of Florence"> 
+<META name="keywords" content="calcolo delle variazioni, equazioni
+alle derivate parziali, regolarita per funzionali con crescite non
+standard, problemi non convessi del calcolo delle variazioni con
+microstrutture, microstrutture e sistemi differenziali in forma
+implicita, problemi vettoriali del calcolo delle variazioni"> 
+<META name="author" content="Emanuele Paolini">
+
+<?php
+print("<LINK href='$HOME/cdvedp.css' rel='stylesheet' type='text/css'>");
+?>
+<title>
+Calcolo delle Variazioni ed Equazioni alle derivate parziali, Firenze
+</title>
+</head>
+<body>
+<div class=head>
+<h1>Calcolo delle Variazioni ed Equazioni alle Derivate Parziali</h1>
+<h2>- FIRENZE -</h2>
+</div>
+<div class='body'>

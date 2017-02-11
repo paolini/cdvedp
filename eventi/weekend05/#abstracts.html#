@@ -1,0 +1,329 @@
+\textheight = 225mm 
+\hoffset = -14mm 
+\textwidth = 155mm 
+\evensidemargin =+1.5cm  
+\oddsidemargin  =+1.5cm
+\parindent8mm
+\frenchspacing
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+\begin{document}
+
+\centerline{\large{\bf{WEEK-END di LAVORO di}}}
+\vspace*{0.035truein}
+\centerline{\large{\bf CALCOLO delle VARIAZIONI}}
+\vspace*{0.035truein}
+\centerline{\small{\bf{lista abstracts}}}
+\vspace*{0.035truein}
+\centerline{\small{11 Ottobre 2005}}
+\vspace*{0.25truein}
+%
+%
+
+\begin{itemize}
+
+\item{\bf Bertone Simone},
+\emph{``On Hopf's Lemma and the Strong Maximum Principle''}.
+
+Abstract: In this paper we consider Hopf's Lemma
+and the Strong Maximum Principle for supersolutions to
+$$\sum_{i=1}^N g_i(u_{x_i}^2)u_{x_ix_i}=0$$
+under suitable hypotheses that allow $g_i$ to assume
+value zero at zero.
+
+
+\item{\bf Carozza Menita} 
+\emph{}
+
+Abstract:
+
+
+\item{\bf Celada Pietro}, 
+\emph{``Un modello variazionale policonvesso per le cavitazioni''}.
+
+Abstract: Alcuni materiali elastici, sottoposti a grandi deformazioni al bordo,
+si deformano elasticamente sino alla comparsa di una frattura o cavit\`a
+all'interno. E' questo il problema delle cavitazioni studiato da J. Ball
+(Philos. Trans. Roy. Soc. A306 1982) e successivamente da Stuart,
+Marcellini, Mueller e Spector e molti altri.
+Lo scopo di questa ricerca \`e discutere le caratterisiche di un modello
+con energia policonvessa e lineare nel determinante che dia conto del
+fenomeno della cavitazione.
+
+
+\item{\bf Crippa Gianluca},
+\emph{``Soluzioni oscillanti di equazioni di trasporto''}.
+
+Abstract: Sia $X$ uno spazio vettoriale topologico di funzioni definite
+su ${\bf R}^n$. Diciamo che $X$ ha la ``proprietà di chiusura'' se vale
+il fatto seguente: preso un qualsiasi campo vettoriale f
+dipendente dal tempo, con componenti appartenenti a $X$ e
+divergenza limitata, e preso un qualsiasi dato iniziale $u_0$
+in $X$, allora esiste una funzione $u$ dipendente dal tempo ed
+appartenente a $X$ che risolve nel senso delle distribuzioni
+l'equazione del trasporto con campo vettoriale $f$ e dato
+iniziale $u_0$. Recentemente, A. Bressan ha posto la
+questione dell'esistenza di uno spazio $X$ che soddisfi la
+proprietà di chiusura, che si immerga in $L^1_{loc}$ con
+compattezza e che contenga le funzioni limitate che siano
+localmente in $BV$. In un lavoro in collaborazione con
+Camillo De Lellis (Universit\`a di Zurigo) mostriamo che un
+tale spazio $X$ non pu\`o esistere. La nostra prova si basa su
+un esempio di N. Depauw, che mostra un'equazione di
+trasporto malposta il cui campo vettoriale \`e ``quasi $BV$''.
+Nel seminario indicher\`o le motivazioni che portano a
+considerare spazi con le propriet\`a sopra elencate e, dopo
+aver descritto l'esempio di Depauw, cercher\`o di mostrare la
+strategia con cui procediamo nella nostra costruzione.
+
+
+\item{\bf De Cicco Virginia}, 
+\emph{``Rilassamento su $BV$ per funzionali integrali con integrando 
+discontinuo''}.
+
+Abstract: Si presentano alcuni risultati di semicontinuit\'a e 
+rilassamento sullo spazio $BV$ per funzionali non coercivi e con 
+crescita lineare, sotto deboli condizioni di regolarit\'a 
+sull'integrando.
+
+
+\item{\bf Dragoni Federica}, 
+\emph{``Hopf-Lax formula for Hamilton-Jacobi Cauchy problems with
+semicontinuous data and Hormander-Hamiltonian''}.
+
+Abstract: In the first part I'll give some basic notions about
+sub-Riemannian distances and viscosity solutions. Moreover
+I'll quote some known  results of existence and uniqueness
+for evolutive Hamilton-Jacobi equations, introducing the
+Hopf-Lax formula.
+In the second part I'll prove an existence result theorem
+in the context of semicontinuos initial data and
+Hormander-Hamiltonian. The key to prove this result is to
+build a suitable type-distance solution for the associated
+eikonal equation.
+In the third part I'll prove a convergence theorem which
+generelizes a known result for the usual inf-convolution.
+In this part I'll use a Large Deviation Principle in the
+hypoelliptic case, proved using basic notions of measure
+
+
+\item{\bf Esposito Luca},
+\emph{``Una versione quantitativa della disuguaglianza di Polya Szego''}.
+
+Abstract: Si prova una stima della differenza in norma $L^1$ tra una
+funzione di Sobolev $u$ e la sua simmetrizzata radiale, in termini della
+differenza dei rispettivi integrali di Dirichlet. Si giunge cos\`i a
+stimare quanto sia ``vicina'' all'essere radiale (in senso $L^1$) una
+funzione che verifichi ``quasi'' l'uguaglianza nella disuguaglianza di
+Polya Szego.
+
+
+\item{\bf Fusco Nicola},
+\emph{``Una versione sharp della disuguaglianza isoperimetrica quantitativa''}.
+
+Abstract: Sia $E$ un insieme di perimetro finito, con $|E|=|B|$, dove $B$ \`e
+la palla unitaria di $R^n$. Si prova che, a meno di traslazioni,
+$$
+|E\Delta B|\leq c(n)[D(E)]^{1/2},
+$$
+dove $c(n)$ \`e una costante che dipende solo dalla dimensione e
+$$
+D(E)={{P(E)-P(B)}\over{P(B)}}
+$$
+\`e il deficit isoperimetrico di $E$.
+
+
+\item{\bf Gelli Maria Stella},
+\emph{"Obstacle problem for free-discontinuity energies:
+the periodically perforated case"}.
+
+Abstract: I will present some recent results regarding Gamma-limits
+for Mumford-Shah type energies in presence of unilateral
+constraint on periodically perforated sets. 
+Up to select the (unique) meaningful scaling threshold, in the limit, 
+a penalization term appears, taking into account the 1-capacity of
+(a regularization of) the reference set. 
+The result is proved also for the case of reference 
+perforations that are Lebesgue negligible. 
+In such a setting the constraint must be expressed 
+by means of a suitable $H^{n-1}$-representant of 
+a $BV$ function.
+
+
+
+\item{\bf Leonetti Francesco},
+\emph{``Stime puntuali per i minimi di alcuni funzionali vettoriali''}.
+
+Abstract: Consideriamo il funzionale
+$$
+I(u) = \int_{\Omega} f(x,Du(x))dx
+$$
+definito su una classe opportuna di applicazioni vettoriali
+$u:\Omega \subset{\bf R}^n \to{\bf R}^N$.
+
+Presenteremo due condizioni sull'integrando $f$
+che garantiscano la validit\`a del principio
+del massimo per le componenti $u^j$ dei minimi del
+funzionale $I$: la prima assicura che
+tra i minimi di I  ce n'\`e uno che verifica
+il principio del massimo; la seconda garantisce che tutti
+i minimi lo verificano. Osserviamo che f non \`e supposta
+strettamente convessa, dunque ci pu\`o essere pi\`u di un minimo.
+
+Alcuni integrali $I$ hanno problemi di semicontinuit\`a inferiore;
+per ovviare a questo problema, consideriamo il funzionale
+rilassato
+$$
+RI(u) = \inf\{\liminf_k I(u_k): u_k \to u\} 
+$$
+e diamo condizioni per la validit\`a del principio del massimo 
+per i minimi del funzionale rilassato.
+
+
+
+\item{\bf Marcelli Cristina},
+\emph{``Optimality conditions for non-convex, non-coercive
+autonomous variational problems with constraints''}.
+
+Abstract:  We consider the classical autonomous constrained
+variational problem of minimization of  $ \int_a^b f(v(t),v'(t))
+dt$ in the class \  $\Omega:=\{v \in W^{1,1}(a,b): v(a)=\alpha,
+v(b)= \beta, v'(t)\ge 0 \ \mbox{a.e. in } (a,b) \}$, where 
+$f:[\alpha, \beta]\times [0,+\infty) \to {\bf R}$ is a lower
+semicontinuous, non-negative integrand, which can be nonsmooth,
+nonconvex, noncoercive.
+
+We prove a necessary and sufficient condition for the optimality
+of a trajectory \ $v_0\in \Omega$ in the form of a DuBois-Reymond
+inclusion involving the subdifferential of Convex Analysis.
+Moreover, we also provide a relaxation result and necessary and
+sufficient conditions for the existence of the minimum expressed
+in terms of an upper limitation for the assigned mean slope \
+$\xi_0=(\beta-\alpha)/(b-a)$. Applications to various noncoercive
+variational problems are also included.
+
+
+\item{\bf Mingione Giuseppe Rosario},
+\emph{``Stime Calderon-Zygmund per sistemi parabolici degeneri''}.
+
+Abstract: Le stime tipo Calderon-Zygmund permettono di ottenere, per
+equazioni e sistemi non omogenei, informazioni sull'integrabilit\'a
+della soluzione a partire da quella del "dato". Sono un classico nel
+caso lineare ellittico e parabolico. Per il $p$-Laplaciano sono invece
+una conquista piu' recente di T. Iwaniec (equazioni), e
+DiBenedetto-Manfredi (sistemi). Le tecniche note, basate dull'uso di
+opportuni strumenti di analisi armonica (commutatori, funzione
+massimale sharp)e stime $C^{1,\alpha}$, non si applicano al caso
+evolutivo, che \`e rimasto aperto. Presento un risultato, ottenuto con
+Emilio Acerbi, in cui questo gap viene infine colmato. La
+dimostrazione non fa uso di tecniche di Analisi Armonica, e si fonda
+su stime $C^{0,1}$, e non pi\'u $C^{1,\alpha}$. 
+Essa si applica ovviamente al caso ellittico, e permette inoltre di 
+ritrovare i risultati per equazioni a coefficienti discontinui 
+(alla Chiarenza-Fracs-Longo), in modo completamente elementare. 
+Il risultato in questione \`e infine: sia $u$ la soluzione di
+$$
+u_t-div(|Du|^{p-2}Du)=div(|F|^{p-2}F),
+$$
+con $p>1$, allora
+$$
+F \in L^{q}_{loc} \Rightarrow Du \in L^{q}_{loc}
+$$
+$\forall q \geq p$.
+
+\item{\bf Petricca Pier Vincenzo},
+\emph{ ``Esistenza di soluzioni per un problema vettoriale ellittico con dato
+misura''}.
+
+Abstract: Consideriamo il problema di Dirichlet
+$$\left\{\begin{array}{ll}
+-\sum_{i=1}^n D_i ( |D_i u|^(p_i-2) D_i u ) = \mu &\textrm{in\,} \Omega\\
+u=0  &\textrm{su\,} \partial \Omega\end{array}\right.
+$$
+dove
+$\Omega$ \`e un aperto limitato di ${\bf R}^n$ e
+$\mu$ \`e una assegnata misura vettoriale di Radon finita su 
+${\bf R}^n$ a valori in ${\bf R}^N$. 
+Sotto opportune ipotesi sugli esponenti $p_i \geq 2$ si mostra l'esistenza
+di una soluzione $u:\Omega\to{\bf R}^N$.
+
+Questo problema si inquadra nell'ambito dei sistemi ellittici con crescita
+anisotropa.
+
+
+\item{\bf Santambrogio Filippo}, 
+\emph{``Asymptotics of optimal compliance-location problems''}.
+
+Abstract: We consider the problem of placing a
+Dirichlet region made by $n$ small balls of given radius
+in a given domain subject to a force $f$ in order to
+minimize the compliance of the configuration. Then we let
+$n$ tend to infinity and look for the $\Gamma$-limit of
+suitably scaled functionals, in order to get informations
+on the asymptotical distribution of the centres of the
+balls (that will tend to concentrate mostly in the regions
+where $f$ is stronger). This problem is both linked to
+optimal location and shape optimization problems.
+
+
+\item{\bf Treu Giulia} 
+\emph{``Lipschitz regularity of minima under slow growth assumptions''}.
+
+ Abstract: The Lipschitz regularity of minima for one dimensional 
+ variational problems is a classical problem in the framework of the 
+ Calculus of Variations and is the crucial point to investigate more 
+ regularity properties.
+
+ The classical results in this direction make strongly use of the coercivity 
+assumptions on the Lagrangian. We present some recent theorems in which the 
+main point is a "geometric" growth assumption that include both the coercive 
+functionals and a class of functions with linear growth.
+
+
+\item{\bf Verde Anna} 
+\emph{}
+
+Abstract:
+
+
+\item{\bf Zeppieri Caterina}, 
+\emph{``Un risultato di equi-integrabilit\`a nell'ambito delle 
+teorie di riduzione di dimensione''}.
+ 
+Abstract: Nell'ambito dei problemi di riduzione di dimensione
+per materiali elastici nonlineari, si incontrano energie che dipendono
+da successioni di 'gradienti riscalati', ovvero da successioni 
+della forma 
+$(\nabla_\alpha u_\varepsilon|\frac{1}{\varepsilon}\nabla_3u_\varepsilon)$
+dove $x_3$ \`e la direzione 'sottile' e $\nabla_\alpha$ rappresenta la
+derivazione nelle rimanenti variabili.
+
+Un risultato di Bocea e Fonseca mostra che, sotto ipotesi di limitatezza
+in\\ $L^p(\Omega,{\bf R}^{3\times 3})$, una tale successione pu\`o essere 
+decomposta nella somma di una successione 
+$(\nabla_\alpha v_\varepsilon|\frac{1}{\varepsilon}\nabla_3v_\varepsilon)$ 
+la cui potenza $p$-esima \`e equi-integrabile in $\Omega$ pi\`u un resto
+che converge a zero in misura.
+
+Un tale lemma \`e di grande utilit\`a nella determinazione delle teorie
+'ridotte' a partire da quelle tridimensionali, tramite il calcolo di un 
+$\Gamma$-limite.
+
+Diamo una dimostrazione alternativa di questo risultato basata su un metodo
+di riscalamento che ci permette di utilizzare l'analogo risultato, 
+per 'gradienti non riscalati', di Fonseca, M\"uller e Pedregal e di 
+concludere tramite una semplice applicazione del Criterio di 
+de la Vall\'ee Poussin.
+\end{itemize}
+
+
+
+\end{document}
+
+
+
+
+

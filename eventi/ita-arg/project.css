@@ -1,0 +1,26 @@
+body		{font-family : sans-serif, geneva, helvetica, arial, verdana;
+                 font-size : 13px;
+                 background-color : white;
+                 color : #0000ff;}
+
+a		{font-family : sans-serif, geneva, helvetica, arial, verdana;
+		 background-color : white; color : #0000ff;
+		 text-decoration : none; font-weight : bold;}
+a:active        {color : red;}
+a:hover         {color : red}
+
+a.bar		{font-size : 15px; background-color : #0000ff; color : white;}
+a.bar:active	{color : red;}
+a.bar:hover	{color : red;}
+
+a.endbar	{font-family : courier; font-size : 10px;}
+
+a.testo		{font-weight : normal; font-style : italic;}
+div.testo	{text-align : justify;}
+
+td.endbar	{font-size : 10px;}
+td.bar		{background-color : #0000ff; color : #ffffff;
+                 font-weight : bold; font-size : 15px;}
+td.title	{color : #3355ff; font-weight : bold; font-size : 40px;}
+td.lang		{background-color : white; color : blue;}
+td.testo	{}

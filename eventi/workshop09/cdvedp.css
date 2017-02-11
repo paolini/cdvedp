@@ -1,0 +1,94 @@
+body		{font-family : sans-serif;
+                 font-size : 13px;
+                 background-color : #fceed8;
+                 color : #000000;}
+
+h1		{color : #000000;}
+h2		{color : #000000;}
+
+
+a		{font-family : sans-serif, geneva, helvetica, arial, verdana;}
+a:link          {color : blue; text-decoration : none;}
+a:visited       {color : blue; text-decoration : none;}
+a:active        {color : #cc33ff; text-decoration : none;}
+a:hover         {color : #cc33ff; text-decoration : none;}
+
+a.abar		{font-family : sans-serif, geneva, helvetica, arial, verdana;
+		 font-weight : bold;
+		 font-size : 15px;}
+a.abar:link	{color : #ffffff; text-decoration : none;}
+a.abar:visited	{color : #ffffff; text-decoration : none;}
+a.abar:active	{color : #ff0000; text-decoration : none;}
+a.abar:hover	{color : #ff0000; text-decoration : none;}
+
+a.anews		{font-weight : bold; font-size : 15px;}
+a.anews:link	{color : #3366ff; text-decoration : none;}
+a.anews:visited	{color : #3366ff; text-decoration : none;}
+a.anews:active	{color : #ff0000; text-decoration : none;}
+a.anews:hover	{color : #ff0000; text-decoration : none;}
+
+a.psel		{font-weight : bold; font-size : 15px;}
+a.psel:link	{color : #330099; text-decoration : none;}
+a.psel:visited	{color : #3300cc; text-decoration : none;}
+a.psel:active	{color : #ff0000; text-decoration : none;}
+a.psel:hover	{color : #ff0000; text-decoration : none;}
+
+a.puns		{font-weight : bold; font-size : 15px;}
+a.puns:link	{color : #ffffff; text-decoration : none;}
+a.puns:visited	{color : #ffffff; text-decoration : none;}
+a.puns:active	{color : #ff0000; text-decoration : none;}
+a.puns:hover	{color : #ff0000; text-decoration : none;}
+
+a.titolo:link	{color : #6600ff; text-decoration : none;}
+a.titolo:visited{color : #6600ff; text-decoration : none;}
+a.titolo:active	{color : #ff0000; text-decoration : none;}
+a.titolo:hover	{color : #ff0000; text-decoration : none;}
+
+a.rivista:link	{color : #3300ff; text-decoration : none;}
+a.rivista:visited{color : #3300ff; text-decoration : none;}
+a.rivista:active{color : #ff0000; text-decoration : none;}
+a.rivista:hover	{color : #ff0000; text-decoration : none;}
+
+a.casaed:link	{color : #9900ff; text-decoration : none;}
+a.casaed:visited{color : #9900ff; text-decoration : none;}
+a.casaed:active	{color : #ff0000; text-decoration : none;}
+a.casaed:hover	{color : #ff0000; text-decoration : none;}
+
+div.lavori	{text-align : justify;
+		 color : #333366;}
+div.testo	{text-align : justify;}
+div.color	{background: #9999FF;
+		 padding: 0.5em;
+		 border: none;}
+
+td.psel		{background-color : #ddddff;}
+td.puns		{background-color : #8888ee;}
+
+td.bar		{background-color : #0000ff;
+                 font-size : 15px;
+                 font-family : sans-serif, geneva, helvetica, arial, verdana;
+		 font-weight : bold;}
+
+td.endbar	{color : #000000;
+                 font-size : 13px;
+                 font-family : sans-serif, geneva,helvetica, arial, verdana;}
+
+td.title	{color : #33ccff;
+                 font-size : 40px;
+                 font-family : geneva, helvetica, arial, verdana, sans-serif;
+		 font-weight : bold;}
+
+td.subtitle	{color : #ffffff;
+                 background-color : #9999ff;
+                 font-size : 15px;
+                 font-family : sans-serif, geneva, helvetica, arial, verdana;
+		 font-weight : bold;}
+
+td.news		{background-color : #ddddff;
+		 color : #0000ff;
+                 font-size : 13px;
+                 font-family : sans-serif, geneva, helvetica, arial, verdana;}
+
+td.roba		{color : #ffffff;
+		 font-size : 14px;
+                 font-family : sans-serif, geneva, helvetica, arial, verdana;}

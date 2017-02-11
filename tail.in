@@ -1,0 +1,29 @@
+</div>
+<!-- this is tail.in -->
+<div class='tail' >
+&gt;&gt;&gt;
+<?php
+
+$first_use=true;
+
+function tailTab( $url, $name ) {
+	global $first_use;
+	$HOME = 'http://php.math.unifi.it/users/cdvedp';
+
+	if (! $first_use)
+             print(" | ");
+	$first_use=false;
+	print("<a href='$HOME/$url'>$name</a>");
+}
+
+
+tailTab("","pagina principale");
+#print(" |\n");
+tailTab("people","persone"); 
+#print(" |\n");
+tailTab("eventi","eventi");
+?>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,91 @@
+This is pdfTeX, Version 3.14159-1.00a-pretest-20011114-ojmw (Web2C 7.3.7) (format=pdflatex 2003.6.10)  17 OCT 2005 15:07
+**schedule
+(./schedule.tex{/usr/share/texmf/pdftex/config/pdftex.cfg}
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for american, french, german, ngerman, i
+talian, nohyphenation, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2001/04/21 v1.4e Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size12.clo
+File: size12.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+No file schedule.aux.
+\openout1 = `schedule.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
+(/usr/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+
+Overfull \hbox (6.91716pt too wide) in paragraph at lines 65--67
+[]/cmr12/ore 10.00: /cmbx12/Min-gione Giuseppe Rosario /cmr12/(Uni-ver-sit^^Ra 
+di Parma), /cmti12/``Stime Calderon-
+ []
+
+[1
+
+{/usr/share/texmf/dvips/config/pdftex.map
+Warning: pdflatex (file /usr/share/texmf/dvips/config/pdftex.map): invalid entr
+y for `rtxphvbo': SlantFont/ExtendFont can be used only with embedded T1 fonts
+
+Warning: pdflatex (file /usr/share/texmf/dvips/config/pdftex.map): invalid entr
+y for `rtxphvro': SlantFont/ExtendFont can be used only with embedded T1 fonts
+
+Warning: pdflatex (file /usr/share/texmf/dvips/config/pdftex.map): invalid entr
+y for `rtxptmbo': SlantFont/ExtendFont can be used only with embedded T1 fonts
+
+Warning: pdflatex (file /usr/share/texmf/dvips/config/pdftex.map): invalid entr
+y for `rtxptmro': SlantFont/ExtendFont can be used only with embedded T1 fonts
+}]
+Overfull \hbox (3.81302pt too wide) in paragraph at lines 105--107
+[]/cmr12/ore 18.00: /cmbx12/San-tam-bro-gio Fil-ippo /cmr12/(SNS Pisa), /cmti12
+/``Asymp-totics of op-ti-mal complian-
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 117.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 117.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 117.
+[2] (./schedule.aux) ) 
+Here is how much of TeX's memory you used:
+ 251 strings out of 10424
+ 2714 string characters out of 65274
+ 47504 words of memory out of 263001
+ 3320 multiletter control sequences out of 10000+0
+ 8243 words of font info for 29 fonts, out of 400000 for 1000
+ 14 hyphenation exceptions out of 1000
+ 22i,4n,19p,156b,236s stack positions out of 300i,100n,500p,50000b,4000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmmi12.pfb></usr
+/share/texmf/fonts/type1/bluesky/cm/cmti12.pfb></usr/share/texmf/fonts/type1/bl
+uesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/sh
+are/texmf/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf/fonts/type1/blues
+ky/cm/cmbx12.pfb>
+Output written on schedule.pdf (2 pages, 46121 bytes).
