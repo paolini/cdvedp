@@ -11,8 +11,8 @@ div.logo {
     text-align: center;
 }
 
-p#p_speakers {
-    margin-right: 10px;
+p.wider {
+    margin-right: -50px;
 }
 
 body {
