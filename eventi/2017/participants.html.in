@@ -1,0 +1,26 @@
+	<!-- ========== PARTICIPANTS SECTION ========== -->
+	<section id="participants" name="participants"></section>
+	<div id="headerwrap">
+	  <div class="container">
+	    <br>
+	    <div class="row">
+	      <h1>New Trends on Calculus of Variations and PDE's</h1>
+	    </div>
+	  </div><!-- /container -->
+	</div><!-- /headerwrap -->
+
+	
+	<div class="container">
+	  <div class="row">
+	    <h3>Participants</h3>
+	    <p class="centered">This list is updated weekly
+	      Anyone who wish to participate can fill the <br /><a href="https://goo.gl/forms/7jKQmKpVZLxyV8Hg2">registration form</a>. 
+	    <p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
+	    <div class="col-lg-6 col-lg-offset-3">
+	      <p class="wider">
+		{PARTICIPANTS}
+	      </p>
+	    </div>
+	  </div>
+	</div>
+	

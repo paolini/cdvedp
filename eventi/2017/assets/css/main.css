@@ -7,6 +7,11 @@
  * URL: http://blacktie.co
  */
 
+.bottom_menu {
+    text-align: center;
+    font-size: 20px;
+}
+
 div.logo {
     text-align: center;
 }
@@ -97,7 +102,6 @@ a:after {
 	text-align:center;
 	background-attachment: relative;
 	background-position: center top;
-	min-height: 700px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -109,6 +113,14 @@ a:after {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.mainpage {
+	min-height: 700px;
+}
+
+.contrast {
+    background-color:rgba(0, 0, 0, 0.2);
 }
 
 #headerwrap h1 {
