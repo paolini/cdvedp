@@ -81,7 +81,10 @@ def main():
     
     ROW_TEMPLATE = u'<b>{nome} {cognome}</b> - {affiliazione}, {paese}<br />'
     participants_html = u'\n'.join([ROW_TEMPLATE.format(**row) for row in sheet if row['nome']])
+    speakers_html = u'\n'.join([ROW_TEMPLATE.format(**row) for row in sheet if row['gruppo'] == 'speaker'])
 
+    #    print(speakers_html)
+    
     BASE_TEMPLATE = file('base.html.in').read()
     
     for filename in ["index.html", "participants.html"]:
