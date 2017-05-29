@@ -138,10 +138,119 @@
 		  <div class="row">
 		    <h3>PROGRAM</h3>
 		    <p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
-		    <div class="col-lg-6 col-lg-offset-3">
-		      <p>
-			Under construction!
-		      </p>
+		    <div class="col-lg-6 col-lg-offset-3 program">
+		      <p align="center"><a href="Program.pdf">[download PDF]</a></p>
+		      <!-- PROGRAM BEGIN -->
+		      <table class="program">
+			<tr>
+			  <td rowspan="6" colspan="3" class="empty"></td>
+			  <th colspan="2">TUESDAY  JUNE 13th</th>
+			  <th>WEDNESDAY    JUNE 14th</th>
+			  <th>THURSDAY JUNE 15th</th>
+			</tr>
+			<tr>
+			  <th colspan="4">
+			    <b>Montecatini-Hotel Belvedere</b>
+			  </th>
+			</tr>
+			<tr>
+			  <td class="time">9.00&nbsp;-&nbsp;9.45</td>
+			  <Td>Mosco</Td>
+			  <Td>Boccardo</Td>
+			  <Td>Di&nbsp;Benedetto</Td>
+			</tr>
+			<tr>
+			  <td class="time">  9.45&nbsp;-&nbsp;10.30</td>
+			  <Td>Kristensen</Td>
+			  <Td>Sbordone</Td>
+			  <Td>Manfredi </Td>
+			</tr>
+			<tr>
+			  <td class="time">10.30&nbsp;-&nbsp;11.15</td>
+			  <Td>Kawohl</Td>
+			  <Td>Miller </Td>
+			  <Td>Kinnunen</Td>
+			</tr>
+			<tr>
+			  <td class="time">11.15&nbsp;-&nbsp;11.45</td>
+			  <td colspan="3"><i>Coffee break</i></td>
+			</tr>
+			<tr>
+			  <th colspan="2">MONDAY JUNE 12th</th>
+			  <td rowspan="9"></td>
+			  <td class="time">11.45&nbsp;-&nbsp;12.30</td>
+			  <Td>Pucci</Td>
+			  <Td>Cianchi</Td>
+			  <Td>Dacorogna</Td>
+			</tr>
+			<tr>
+			  <th colspan="2"><b>AULA MAGNA</b><br/><b>University of Firenze</b></th>
+			  <td class="time">12.30&nbsp;-&nbsp;13.15</td>
+			  <Td>Leoni</Td>
+			  <Td>Cellina</Td>
+			  <Td><i>Conclusion</i></Td>
+			</tr>
+			<tr>			  
+			  <td class="time">14.30&nbsp;-&nbsp;15.00</td>
+			  <Td><i>Registration</i></Td>
+			  <Td colspan="4"><i>Lunch</i></Td>
+			</tr>
+			<tr>
+			  <td class="time">15.00&nbsp;-&nbsp;15.30</td>
+			  <td><i>Opening address</i></td>
+			  <td class="time">15.00&nbsp;-&nbsp;15.45</td>
+			  <Td>Dal Maso</Td>
+			  <Td>Maggi</Td>
+			  <td rowspan="7" class="empty"></td>
+			</tr>
+			<tr>
+			  <td class="time">15.30&nbsp;-&nbsp;16.15</td>
+			  <Td>Fonseca</Td>
+			  <td class="time">15.45&nbsp;-&nbsp;16.30</td>
+			  <Td>Mooney</Td>
+			  <Td>Bögelein</Td>
+			</tr>
+			<tr>
+			  <td class="time">16.15&nbsp;-&nbsp;17.00</td>
+			  <td><i>Interventi di</i> <br />
+			    Matteo&nbsp;Focardi&nbsp;e<br />
+			    Antonella&nbsp;Passarelli</Td>
+			  <td class="time">16.30&nbsp;-&nbsp;17.00</td>
+			  <td colspan="2"><i>Coffee break</i></td>
+			</tr>
+			<tr>
+			  <td class="time">17.00&nbsp;-&nbsp;17.45</td>
+			  <Td>Duzaar</Td>
+			  <td class="time">17.00&nbsp;-&nbsp;17.45</td>
+			  <Td>Vespri</Td>
+			  <Td>Rüland</Td>
+			</tr>
+			<tr>
+			  <td class="time">18.00</td>
+			  <td>(*)</td>
+			  <td></td>
+			  <td></td>
+			  <td></td>
+			</tr>
+			<tr>
+			  <td></td>
+			  <td></td>
+			  <td></td>
+			  <td></td>
+			  <Td><i>Social Dinner</i></Td>
+			</tr>
+			<tr>
+			  <td colspan="6" style="font-size: 80%;text-align: left">
+			    (*) At the end of the lectures a bus-trip will take the participants
+			    from the "Aula Magna" <br />
+			    of the University of Firenze to the location in Montecatini (about 40 Km
+			      from Firenze)
+			  </td>
+			</tr>
+		      </table>
+		      
+		      <!-- PROGRAM END -->
+
 		    </div>								
 		  </div><!-- row -->
 		</div><!-- container -->

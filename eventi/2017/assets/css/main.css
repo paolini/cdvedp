@@ -1,11 +1,46 @@
 /*
  * Author: Carlos Alvarez
+ * Modified by: Emanuele Paolini
  * URL: http://alvarez.is
  *
  * Project Name: Minimal - Free Bootstrap 3 Theme
  * Version: 1.0
  * URL: http://blacktie.co
  */
+
+table.program tr {
+    /* background-color: #ffd9df; */
+    background-color: white;
+}
+
+table.program th {
+    background-color: #55bce4;
+}
+
+table.program td.time {
+    text-align: right;
+    font-style: italic;
+}
+
+table.program td, table.program th {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+table.program td.empty {
+    background-color: #9ac6f2;
+    border: none;
+}
+
+table.program i {
+    font-size: 100%;
+    color: #999;
+    padding: 0px;
+}
+
+div.program {
+}
 
 .bottom_menu {
     text-align: center;
@@ -166,6 +201,7 @@ a:after {
 	color: #fff;
     padding: 3px;
 }
+
 
 .container p {
 	font-size: 20px;
